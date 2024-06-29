@@ -1,0 +1,23 @@
+p
+{
+    color: white;
+    background-color: lightcoral;
+}
+div>article>p
+{
+    color: red;
+    background-color: aqua;
+}
+div>span>p
+{
+    color: white;
+    background-color: rgb(12, 163, 244);
+}
+div p
+{
+    color: rebeccapurple;
+    background-color: aqua;
+}
+* {
+    height: 100px;
+}
